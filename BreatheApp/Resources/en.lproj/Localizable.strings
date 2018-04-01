@@ -1,0 +1,16 @@
+/* 
+  Strings.strings
+  BreatheApp
+
+  Created by Andrii Rogulin on 3/31/18.
+  Copyright © 2018 Andrii Rogulin. All rights reserved.
+*/
+
+
+"str_start_title" = "tap here to breathe";
+"str_remaining_title" = "remaining";
+
+"str_error" = "error";
+"str_unknown_error_description" = "unknown error";
+"str_error_description" = "breathing program loading error";
+"str_ok" = "ok";

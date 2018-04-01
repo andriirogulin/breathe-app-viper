@@ -1,0 +1,32 @@
+[
+  {
+    "type": "inhale",
+    "duration": 4,
+    "color": "#FF00FF"
+  },
+  {
+    "type": "exhale",
+    "duration": 2,
+    "color": "#00FFFF"
+  },
+  {
+    "type": "hold",
+    "duration": 7,
+    "color": "#FFFF00"
+  },
+  {
+    "type": "inhale",
+    "duration": 3,
+    "color": "#FF0000"
+  },
+  {
+    "type": "exhale",
+    "duration": 1,
+    "color": "#0000FF"
+  },
+  {
+    "type": "hold",
+    "duration": 8,
+    "color": "#FFFFFF"
+  },
+]
